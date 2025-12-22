@@ -1,0 +1,27 @@
+{
+  "name": "w11_g3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fizzakashif0/w11_g3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fizzakashif0/w11_g3/issues"
+  },
+  "homepage": "https://github.com/fizzakashif0/w11_g3#readme",
+  "dependencies": {
+    "parcel": "^2.16.3"
+  },
+  "devDependencies": {
+    "htmllint": "^0.8.0",
+    "stylelint": "^16.26.1",
+    "stylelint-config-standard": "^39.0.1"
+  }
+}
